@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Interstellar",
+        "ratings": {
+            "John": 10,
+            "Jack": 3
+        }
+    },
+    {
+        "name": "Avengers: Infinity War",
+        "ratings": {
+            "Jack": 9,
+            "Jane": 10
+        }
+    },
+    {
+        "name": "One pice",
+        "ratings": {
+            "Yernur": 10.0,
+            "Svarshik": 9.0
+        }
+    }
+]
